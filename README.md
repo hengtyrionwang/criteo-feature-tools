@@ -4,10 +4,12 @@ This code is used for quick evaluation of [Deep-Rank-Tensorflow](https://github.
 ==============================================
 #### Requirement
 ==============================================
--  tensorflow >= 2.4.1
+-  numpy >= 1.20.3
+-  sklearn >= 0.24.2
 #### Quick start:
 ==============================================
-- Download the criteo dataset, extract the files.
+- cd criteo-feature-tools
+- Download the criteo dataset, extract files here.
 - bash ./bin/criteo_feature_example.sh
 - use files in ffm directory to train the Deep Rank model.
 ==============================================
