@@ -16,4 +16,5 @@ This code is used for quick evaluation of [Deep-Rank-Tensorflow](https://github.
 
 ### Acknowledge
 ==============================================
+
 We build this project based on [kaggle-2014-criteo](https://github.com/ycjuan/kaggle-2014-criteo), thanks a lot for their code. 
